@@ -2,6 +2,6 @@
  
 int main()
 {
-  printf("Main\n");
+  printf("riting\n");
   return 0;
 }
